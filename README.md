@@ -1,2 +1,2 @@
-# Hangman
-A classical hangman game
+#Cows and bulls game
+A classical cows and bulls game
